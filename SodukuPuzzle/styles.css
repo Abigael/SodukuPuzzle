@@ -1,0 +1,97 @@
+html {
+  background-color: #A6F3A6;
+
+}
+
+.section {
+    width: 950px;
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3pt solid black;
+    padding: 25px;
+}
+
+header img {
+    display: block;
+    margin-left: auto;
+    border: 3pt solid black;
+    margin-right: auto;
+}
+
+.indexForm div {
+    margin-top: 1em;
+}
+
+table {
+    background: white;
+}
+
+
+.one-deep .wall {
+    border-right: 2px solid black;
+}
+
+.one-deep .floor {
+    border-bottom: 2px solid black;
+}
+
+
+.one-deep {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+}
+
+
+.one-deep td{
+    width: 3em;
+    height: 3em;
+    text-align: center;
+    border: 1px solid black;
+}
+
+
+
+
+
+.green-text a{
+    color: green;
+}
+
+.black-text a{
+    color: black;
+}
+
+.red-text a{
+    color: red;
+}
+
+.one-deep td a, .one-deep td a:visited {
+    text-decoration: none;
+}
+
+
+
+.two-deep {
+    border-collapse: collapse;
+
+}
+
+.two-deep td {
+    width: 1em;
+    height: 1em;
+    border: 0;
+    color: green;
+}
+
+td a {
+    display: block;
+    width: 100%;
+}
+
+div .textbox {
+    width: 200px;
+}
